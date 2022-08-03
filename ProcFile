@@ -1,1 +1,1 @@
-web: gunicorn countries-cities-states.wsgi --log-file -
+web: gunicorn countries_state_cities.wsgi --log-file -
